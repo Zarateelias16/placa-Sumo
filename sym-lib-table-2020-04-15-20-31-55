@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name sumo-como-tp4-y-tp5-rescue)(type Legacy)(uri "${KIPRJMOD}/sumo como tp4 y tp5-rescue.lib")(options "")(descr ""))
+)
